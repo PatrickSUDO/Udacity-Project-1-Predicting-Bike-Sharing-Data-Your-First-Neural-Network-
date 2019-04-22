@@ -1,4 +1,4 @@
-# Predicting Bike-Sharing Data (Build a Neural Network from scratch)
+# Predicting Bike-Sharing Data (Building a Neural Network from scratch)
 
 ## Introduction:
 In this project, I built a neural network without framework such as Tensorflow or Pytorch to carry out a prediction on a real world problem! By constructing a neural network from scratch, I can have better understanding of the mechanism of NN, for example backpropagation, gradient descent and other important concepts. 
