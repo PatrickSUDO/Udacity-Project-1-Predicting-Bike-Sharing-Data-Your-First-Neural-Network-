@@ -9,6 +9,6 @@ The data comes from the UCI Machine Learning Database.
 
 1. In the bike-sharing problem, NN may not be the best choice since some features can be noisy and messy, they can influence the accuracy a lot. At the same, some simple solution like random forest may be more resistant to those noise.
 
-2.EDA and feature selection are needed for further improvement.  
+2. EDA and feature selection are needed for further improvement.  
 
 
