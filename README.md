@@ -5,7 +5,7 @@ In this project, I built a neural network without framework such as Tensorflow o
 
 The data comes from the UCI Machine Learning Database.
 
-## Discussion adn Observation:
+## Discussion:
 
 1. In the bike-sharing problem, NN may not be the best choice since some features can be noisy and messy, they can influence the accuracy a lot. At the same, some simple solution like random forest may be more resistant to those noise.
 
